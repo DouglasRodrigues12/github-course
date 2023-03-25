@@ -1,4 +1,4 @@
-#GIthub
+portugol#GIthub
  arquivo da aula de git e github para iniciantes.
 
 este e um repositorio teste 
